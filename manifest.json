@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "ACORN Timetable Rainbow",
+  "description": "Turns your ACORN Timetable from blue to (blue + colours)!",
+  "version": "1.0",
+
+  // "permissions": [
+  //   "activeTab"
+  // ],
+
+  "content_scripts": [
+    {
+      "matches": ["https://acorn.utoronto.ca/*"], 
+      "css" : ["inject.css"]
+    }
+  ]
+}

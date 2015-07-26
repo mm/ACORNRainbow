@@ -1,0 +1,25 @@
+/* Overriding some ACORN styles */
+
+table.sched .class1 {
+	background-color: hsl(15, 55%, 50%) !important;
+}
+
+table.sched .class2 {
+	background-color: hsl(80, 50%, 40%) !important;
+}
+
+table.sched .class3 {
+	background-color: hsl(10, 62%, 30%) !important;
+}
+
+table.sched .class4 {
+	background-color: hsl(210, 55%, 50%) !important;
+}
+
+table.sched .class5 {
+	background-color: hsl(250, 30%, 51%) !important;
+}
+
+table.sched .class6 {
+	background-color: hsl(330, 45%, 50%) !important;
+}
