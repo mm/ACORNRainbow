@@ -1,0 +1,19 @@
+button#screenshotButton { 
+    float: right;
+    font-size: 13px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif, fontello;
+    box-sizing: border-box;
+    font-weight: 400;
+    background-color: rgb(1, 58, 111);
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+    line-height: 30px;
+    border-style: none;
+}
+
+span#instructionsContainer {
+    display: block;
+    font-size: 18px;
+    color: #707070;
+}
